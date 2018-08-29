@@ -1,0 +1,28 @@
+{
+  "name": "jjava",
+  "version": "1.0.0",
+  "description": "java runner, help to build java cli tools",
+  "main": "index.js",
+  "bin": {
+    "njava": "index.js",
+    "jjava": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "java",
+    "node",
+    "cli",
+    "tool",
+    "cli-tool",
+    "node-java",
+    "jjava",
+    "java-runner"
+  ],
+  "author": "deepak.m.shrma@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "batman-cli": "github:deepakshrma/batman-cli"
+  }
+}
