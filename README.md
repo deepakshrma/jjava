@@ -15,9 +15,11 @@ njava -i [project_name]
 jjava -i [project_name]
 ```
 > [Optional]: Modify .njavarc.json if needed
-project_name|
+```
+|project_name
     ---|.njavarc.json
-> Run njava
+```
+> Run java project using njava
 ```bash
 cd project_name
 njava
