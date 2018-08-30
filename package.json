@@ -22,7 +22,7 @@
   ],
   "author": "deepak.m.shrma@gmail.com",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "batman-cli": "github:deepakshrma/batman-cli"
   }
 }

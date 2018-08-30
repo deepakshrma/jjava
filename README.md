@@ -6,6 +6,8 @@ Java runner, Run java project with a simple commad using node. Create Java base 
 ```bash
 ## Use github
 npm i deepakshrma/jjava
+#OR
+npm i -g git+https://git@github.com/deepakshrma/jjava.git
 ```
 **[Note]:** Still working on publish
 > Create a project
